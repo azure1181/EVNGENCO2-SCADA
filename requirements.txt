@@ -1,0 +1,35 @@
+# Phân tích dữ liệu & xuất báo cáo bằng Python
+# Phiên bản tối thiểu, tương thích Python 3.13
+
+# Xử lý & tính toán dữ liệu
+pandas>=2.2.3
+numpy>=2.1.0
+
+# Trực quan hóa
+matplotlib>=3.9.0
+plotly>=5.24.0
+
+# Đọc/ghi Excel
+openpyxl>=3.1.2
+
+# Xuất PDF
+reportlab>=4.2.0
+
+# Ứng dụng web / dashboard
+streamlit>=1.39.0
+
+# Notebook
+jupyter>=1.1.0
+
+# API & Web Framework
+fastapi>=0.110.0
+uvicorn>=0.27.0
+python-multipart>=0.0.9
+ipykernel>=6.0.0
+
+# Mô hình học máy (hồi quy power-curve) & lưu model
+scikit-learn>=1.4.0
+joblib>=1.3.0
+
+# Kiểm thử (unit test)
+pytest>=8.0.0
